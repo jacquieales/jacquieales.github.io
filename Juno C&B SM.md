@@ -6,7 +6,6 @@ longitude: Longitude E
 shortDescription: Short description
 filters:
   Publication type: Standard
-  Data Type: Standard
   Resilience: Radio_on
   Wellbeing: Radio_off
   Environmental Sustainability: Radio_off
