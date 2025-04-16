@@ -29,4 +29,4 @@ filters:
  **Disturbance**: {{Disturbance}}\
  **Other tags**: {{Other tags}}
 
-[View online]({{HYPERLINK_COLUMN_HEADER}})
+[View online]({{Hyperlink}})
