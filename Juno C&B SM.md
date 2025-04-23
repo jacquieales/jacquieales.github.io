@@ -1,5 +1,5 @@
 ---
-title: 2An interactive map of the evidence investigating agroforestry's role in biodiversity and climate change mitigation and adaptation in low- and middle- income countries
+title: An interactive map of the evidence investigating agroforestry's role in biodiversity and climate change mitigation and adaptation in low- and middle- income countries
 blurb: Created as part of the Juno Evidence Alliance Project
 latitude: Latitude N
 longitude: Longitude E
@@ -14,7 +14,7 @@ filters:
   Taxa: Standard
   CCM: Standard
   CCA: Standard
-  CCM/CCA: Radio_on
+
 ---
 ##### {{Study citation}}
 
