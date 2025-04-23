@@ -11,6 +11,7 @@ filters:
   Agroforestry subtype/s: Standard
   Agroforestry tree species: Standard
   Biodiversity measure: Standard
+  Taxa: Standard
   CCM: Standard
   CCA: Standard
 ---
