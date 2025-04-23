@@ -19,7 +19,7 @@ filters:
 ---
 
 **Location:** {{Location}}\
-**Crop/s:**{{Crop/s}}\
+**Crop/s:** {{Location}}\
 **Animal/s:**{{Animal/s}}\
 **Agroforestry type/s:** {{Agroforestry type/s}}\
 **Agroforestry subtype/s:** {{Agroforestry subtype/s}}\
