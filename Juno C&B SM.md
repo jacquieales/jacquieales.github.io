@@ -28,6 +28,6 @@ filters:
 **CCM measures**{{CCM measures}}\
 **CCA indicators**{{CCA indicators}}\
 **Study type**{{Study type}}\
-
+**Data type**{{Data type/s}}
 
 [View online]({{Hyperlink}})
