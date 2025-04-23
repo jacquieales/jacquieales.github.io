@@ -6,7 +6,6 @@ longitude: Longitude E
 shortDescription: Short description
 filters:
   Publication year: Standard
-  S: Standard
   Study country: Standard 
   Agroforestry type/s: Radio_on
   Agroforestry subtype/s: Radio_on
