@@ -26,7 +26,7 @@ filters:
 **Biodiversity measure:** {{Biodiversity measure}}\
 **Taxa:** {{Taxa}}\
 **CCM measures:** {{CCM measures}}\
-**CCA indicators:**{{CCA indicators}}\
-**Data type/s:**{{Data type/s}}\
+**CCA indicators:** {{CCA indicators}}\
+**Data type/s:** {{Data type/s}}\
 
 [View online]({{Hyperlink}})
