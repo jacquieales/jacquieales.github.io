@@ -17,8 +17,8 @@ filters:
 ##### {{Study citation}}
 
 ---
+
 **Location:** {{Location}}\
-**Study type:**{{Study type}}\
 **Crop/s:**{{Crop/s}}\
 **Animal/s:**{{Animal/s}}\
 **Agroforestry type/s:** {{Agroforestry type/s}}\
@@ -27,7 +27,6 @@ filters:
 **Taxa:** {{Taxa}}\
 **CCM measures:**{{CCM measures}}\
 **CCA indicators:**{{CCA indicators}}\
-**Study type:**{{Study type}}\
 **Data type/s:**{{Data type/s}}\
 
 [View online]({{Hyperlink}})
