@@ -6,10 +6,11 @@ longitude: Longitude E
 shortDescription: Short description
 filters:
   Publication year: Standard
-  Study continent: Standard
+  S: Standard
   Study country: Standard 
-  AGROFORESTRY TYPE/S: Radio_on
-  AGROFORESTRY TREE SPECIES: Radio_off
+  Agroforestry type/s: Radio_on
+  Agroforestry subtype/s: Radio_on
+  Agroforestry tree species: Radio_off
   Wellbeing: Radio_off
   Environmental Sustainability: Radio_off
   Disturbance: Standard
@@ -22,10 +23,11 @@ filters:
 
 {{Summary}}
 **Study type**{{Study type}}\
-**CROP/S**{{CROP/S}}\
-**ANIMAL/S**{{ANIMAL/S}}\
-**AGROFORESTRY TYPE/S** {{AGROFORESTRY TYPE/S}}\
-**AGROFORESTRY TREE SPECIES** {{AGROFORESTRY TREE SPECIES}}\
+**Crop/s**{{Crop/s}}\
+**Animal/s**{{Animal/s}}\
+**Agroforestry type/s** {{Agroforestry type/s}}\
+**Agroforestry subtype/s** {{Agroforestry subtype/s}}\
+**Agroforestry tree species** {{Agroforestry tree species}}\
 **Location:** {{Location}}\
 
 [View online]({{Hyperlink}})
