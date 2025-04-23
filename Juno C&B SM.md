@@ -18,7 +18,7 @@ filters:
 
 ---
 
-{{Summary}}\\
+
 **Location:** {{Location}}\
 **Study type**{{Study type}}\
 **Crop/s**{{Crop/s}}\
