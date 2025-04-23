@@ -5,13 +5,10 @@ latitude: Latitude N
 longitude: Longitude E
 shortDescription: Short description
 filters:
-  Publication year: Standard
   Study country: Standard 
   Agroforestry type/s: Radio_on
-  Agroforestry subtype/s: Radio_on
+  Agroforestry subtype/s: Radio_off
   Agroforestry tree species: Radio_off
-  Wellbeing: Radio_off
-  Environmental Sustainability: Radio_off
   Disturbance: Standard
   Other tags: Standard
 ---
