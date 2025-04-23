@@ -7,11 +7,12 @@ shortDescription: Summary
 filters:
   Study continent: Standard 
   Study type: Standard
-  Agroforestry type/s: Radio_on
-  Agroforestry subtype/s: Radio_on
-  Agroforestry tree species: Radio_off
-  CCM: Radio_off
-  CCA: Radio_off
+  Agroforestry type/s: Standard
+  Agroforestry subtype/s: Standard
+  Agroforestry tree species: Standard
+  Biodiversity measure: Standard
+  CCM: Standard
+  CCA: Standard
 ---
 ##### {{Study citation}}
 
@@ -24,10 +25,11 @@ filters:
 **Animal/s**{{Animal/s}}\
 **Agroforestry type/s** {{Agroforestry type/s}}\
 **Agroforestry subtype/s** {{Agroforestry subtype/s}}\
-**Agroforestry tree species** {{Agroforestry tree species}}\
+**Biodiversity measure** {{Biodiversity measure}}\
+**Taxa** {{Taxa}}\
 **CCM measures**{{CCM measures}}\
 **CCA indicators**{{CCA indicators}}\
 **Study type**{{Study type}}\
-**Data type/s**{{Data type/s}}
+**Data type/s**{{Data type/s}}\
 
 [View online]({{Hyperlink}})
