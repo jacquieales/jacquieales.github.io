@@ -6,10 +6,10 @@ longitude: Longitude E
 shortDescription: Summary
 filters:
   Study continent: Standard 
+  Study country: Standard 
   Study type: Standard
   Agroforestry type/s: Standard
   Agroforestry subtype/s: Standard
-  Agroforestry tree species: Standard
   Biodiversity measure: Standard
   Taxa: Standard
   CCM: Standard
@@ -24,10 +24,12 @@ filters:
 **Animal/s:** {{Animal/s}}\
 **Agroforestry type/s:** {{Agroforestry type/s}}\
 **Agroforestry subtype/s:** {{Agroforestry subtype/s}}\
+**Agroforestry tree species:** {{Agroforestry tree species}}\
+**Comparator:** {{Comparator}}\
 **Biodiversity measure:** {{Biodiversity measure}}\
 **Taxa:** {{Taxa}}\
 **CCM measures:** {{CCM measures}}\
 **CCA indicators:** {{CCA indicators}}\
-**Data type/s:** {{Data type/s}}\
+**Data type/s:** {{Data type/s}}
 
 [View online]({{Hyperlink}})
