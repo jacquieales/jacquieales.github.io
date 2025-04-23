@@ -19,8 +19,8 @@ filters:
 ---
 
 **Location:** {{Location}}\
-**Crop/s:** {{Location}}\
-**Animal/s:**{{Animal/s}}\
+**Crop/s:** {{Crop/s}}\
+**Animal/s:** {{Animal/s}}\
 **Agroforestry type/s:** {{Agroforestry type/s}}\
 **Agroforestry subtype/s:** {{Agroforestry subtype/s}}\
 **Biodiversity measure:** {{Biodiversity measure}}\
