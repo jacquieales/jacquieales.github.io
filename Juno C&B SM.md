@@ -9,8 +9,6 @@ filters:
   Agroforestry type/s: Radio_on
   Agroforestry subtype/s: Radio_off
   Agroforestry tree species: Radio_off
-  Disturbance: Standard
-  Other tags: Standard
 ---
 
 ##### {{Study citation}}
