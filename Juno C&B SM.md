@@ -25,7 +25,7 @@ filters:
 **Agroforestry subtype/s:** {{Agroforestry subtype/s}}\
 **Biodiversity measure:** {{Biodiversity measure}}\
 **Taxa:** {{Taxa}}\
-**CCM measures:**{{CCM measures}}\
+**CCM measures:** {{CCM measures}}\
 **CCA indicators:**{{CCA indicators}}\
 **Data type/s:**{{Data type/s}}\
 
