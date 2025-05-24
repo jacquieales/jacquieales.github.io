@@ -15,7 +15,7 @@ filters:
   CCM: Standard
   CCM measures: Standard
   CCA: Standard
-  CCA measures:
+  CCA measures: Standard
   Comparator: Standard
   Data type/s: Standard
 
