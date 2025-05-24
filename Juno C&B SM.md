@@ -14,6 +14,7 @@ filters:
   Taxa: Standard
   CCM: Standard
   CCA: Standard
+  Comparator: Standard
   Data type/s: Standard
 
 ---
