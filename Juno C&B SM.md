@@ -13,7 +13,9 @@ filters:
   Biodiversity measure: Standard
   Taxa: Standard
   CCM: Standard
+  CCM measures: Standard
   CCA: Standard
+  CCA measures:
   Comparator: Standard
   Data type/s: Standard
 
