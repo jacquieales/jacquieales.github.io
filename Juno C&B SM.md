@@ -12,9 +12,9 @@ filters:
   Agroforestry subtype/s: Standard
   Biodiversity measure: Standard
   Taxa: Standard
-  CCM: Standard
+  CC Mitigation: Standard
   CC Mitigation measure: Standard
-  CCA: Standard
+  CC Adaptation: Standard
   CC Adaptation indicator: Standard
   Comparator: Standard
   Data type/s: Standard
