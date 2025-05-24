@@ -33,7 +33,7 @@ filters:
 **Comparator:** {{Comparator}}\
 **Biodiversity measure:** {{Biodiversity measure}}\
 **Taxa:** {{Taxa}}\
-**CCM measures:** {{CCM measures}}\
+**Climate Change Mitigation measure:** {{CCM measures}}\
 **CCA indicators:** {{CCA indicators}}\
 **Data type/s:** {{Data type/s}}
 
