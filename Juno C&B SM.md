@@ -34,7 +34,7 @@ filters:
 **Biodiversity measure:** {{Biodiversity measure}}\
 **Taxa:** {{Taxa}}\
 **CC Mitigation measure:** {{CC Mitigation measure}}\
-**CCA indicators:** {{CCA indicators}}\
+**CC Adaptation indicator:** {{CC Adaptation indicator}}\
 **Data type/s:** {{Data type/s}}
 
 [View online]({{Hyperlink}})
