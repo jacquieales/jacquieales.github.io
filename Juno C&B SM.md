@@ -15,7 +15,7 @@ filters:
   CCM: Standard
   CC Mitigation measure: Standard
   CCA: Standard
-  CC Adaptation indicators: Standard
+  CC Adaptation indicator: Standard
   Comparator: Standard
   Data type/s: Standard
 
