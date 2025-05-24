@@ -13,7 +13,7 @@ filters:
   Biodiversity measure: Standard
   Taxa: Standard
   CCM: Standard
-  CCM measures: Standard
+  Climate Change Mitigation measure: Standard
   CCA: Standard
   CCA indicators: Standard
   Comparator: Standard
