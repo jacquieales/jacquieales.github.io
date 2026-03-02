@@ -12,8 +12,8 @@ filters:
   Agroforestry subtype/s: Standard
   Biodiversity measure: Standard
   Taxa: Standard
-  CC mitigation outcome: Standard
-  CC adaptation outcome: Standard
+  CC Mitigation outcome: Standard
+  CC Adaptation outcome: Standard
   Comparator: Standard
   Data type/s: Standard
 
@@ -31,7 +31,7 @@ filters:
 **Comparator:** {{Comparator}}\
 **Biodiversity measure:** {{Biodiversity measure}}\
 **Taxa:** {{Taxa}}\
-**CC mitigation outcome:** {{CC mitigation outcome}}\
+**CC Mitigation outcome:** {{CC Mitigation outcome}}\
 **CC Adaptation outcome:** {{CC Adaptation outcome}}\
 **Data type/s:** {{Data type/s}}
 
