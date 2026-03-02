@@ -32,7 +32,7 @@ filters:
 **Biodiversity measure:** {{Biodiversity measure}}\
 **Taxa:** {{Taxa}}\
 **CC mitigation outcome:** {{CC mitigation outcome}}\
-**CC adaptation outcome:** {{CC adaptation outcome}}\
+**CC Adaptation outcome:** {{CC Adaptation outcome}}\
 **Data type/s:** {{Data type/s}}
 
 [View online]({{Hyperlink}})
