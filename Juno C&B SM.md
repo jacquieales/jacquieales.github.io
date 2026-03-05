@@ -1,9 +1,9 @@
 ---
 title: An interactive map of the studies investigating agroforestry's role in biodiversity and climate change mitigation and adaptation in low- and middle- income countries
-blurb: Each map point represents the study site (or mid-point if study sites >1)
+blurb: Each map point represents the study site of an article (or mid-point if study sites >1)
 latitude: Latitude N
 longitude: Longitude E
-shortDescription: Summary
+shortDescription: Title
 filters:
   Study continent: Standard 
   Study country: Standard 
