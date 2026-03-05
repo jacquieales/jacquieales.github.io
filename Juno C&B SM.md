@@ -1,4 +1,5 @@
 ---
+#this map is in the "Juno C&B SM" token - go to my mapbox account and goto "tokens" and you will see this one with the webaddress for it
 title: An interactive map of the studies investigating agroforestry's role in biodiversity and climate change mitigation and adaptation in low- and middle- income countries
 blurb: Each map point represents the study site of an article (or mid-point if study sites >1)
 latitude: Latitude N
