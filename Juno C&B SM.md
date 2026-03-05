@@ -8,6 +8,7 @@ filters:
   Study continent: Standard 
   Study country: Standard 
   Study type: Standard
+  Agro-ecological zone: Standard
   Agroforestry type/s: Standard
   Agroforestry subtype/s: Standard
   Biodiversity measure: Standard
@@ -25,6 +26,7 @@ filters:
 **Location:** {{Location}}\
 **Crop/s:** {{Crop/s}}\
 **Animal/s:** {{Animal/s}}\
+**Agro-ecological zone:** {{Agro-ecological zone}}\
 **Agroforestry type/s:** {{Agroforestry type/s}}\
 **Agroforestry subtype/s:** {{Agroforestry subtype/s}}\
 **Agroforestry tree species:** {{Agroforestry tree species}}\
